@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bimala2732
-- 👀 I’m interested in web2, web3
+- 👀 I’m interested in web3
 - 🌱 I’m currently planning to learn solidity
 
 <!---
